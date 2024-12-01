@@ -131,20 +131,20 @@ h1{
 
 .card-img img {
   width: 100%;
-  height: 250px;
+  height: 200px;
   display: block;
 }
 
 .label {
   padding: 0px 15px;
-  font-size: 18px;
+  font-size: 17px;
   font-weight: bold;
   color: #333;
 }
 
 .dev {
   padding: 0 15px;
-  font-size: 14px;
+  font-size: 13px;
   color: #666;
 }
 
